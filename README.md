@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 
 <!-- From [chandan-reddy-k](https://github.com/chandan-reddy-k) -->
 <h2 align="center">
-  Here are some technologies I use at work:
+  Here are some technologies I use and am learning:
 </h2>
 <p align="center">
-<code><img height="70" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/next.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/react.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/flutter.png"></code> &nbsp;&nbsp;
+<code><img height="70" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp-1920x1080.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://pl.wikipedia.org/wiki/C%2B%2B#/media/Plik:ISO_C++_Logo.svg"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://simple.wikipedia.org/wiki/C_(programming_language)#/media/File:C_Programming_Language.svg"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/graphql.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/vue.png"></code>
+<!-- <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> -->
 </p>
 
 <br/>
