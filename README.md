@@ -35,4 +35,3 @@ Here are some ideas to get you started:
   Some stats
  </h2>
 <!-- http://github-readme-streak-stats.herokuapp.com/demo/ -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sern1k&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
