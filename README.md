@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   Here are the technologies I use and am learning:
 </h2>
 <p align="center">
-<code><img height="50" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp-1920x1080.png"></code> &nbsp;&nbsp;
+<code><img height="60" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp-1920x1080.png"></code> &nbsp;&nbsp;
 <code><img height="70" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
 <!-- <code><img height="75" src="https://www.pngfind.com/pngs/m/280-2802676_c-language-global-or-external-variables-with-examples.png"></code> &nbsp;&nbsp; -->
 <!-- <code><img height="75" src="https://www.pikpng.com/pngl/m/469-4698781_learning-c-programming-4-c-logo-svg-clipart.png"></code> &nbsp;&nbsp;
