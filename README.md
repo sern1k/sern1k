@@ -30,11 +30,9 @@ Here are some ideas to get you started:
 </p>
 
 <br/>
-
-<!-- From [pranjaljain0](https://github.com/pranjaljain0) -->
-<a href="https://github.com/Pranjaljain0/Pranjaljain0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjaljain0&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>          
-
+     
+<h1 align="center">
+  Some stats
+ </h2>
 <!-- http://github-readme-streak-stats.herokuapp.com/demo/ -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sern1k&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
