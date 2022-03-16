@@ -10,7 +10,7 @@ Hello World!
   <li>Bunnies' mom</li>
   <li>Marvel's fan</li>
   <li>math lover</li>
-  <li>currenty learning webdev</li>
+  <li>currently learning webdev</li>
 </ul>
 
 <!-- From [chandan-reddy-k](https://github.com/chandan-reddy-k) -->
