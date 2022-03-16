@@ -44,4 +44,5 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjaljain0&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>          
 
+<!-- http://github-readme-streak-stats.herokuapp.com/demo/ -->
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sern1k&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
