@@ -6,7 +6,7 @@ Hello World!
   About me
 </h2>
 <ul>
-  <li>study Applied Computer Science at Jagiellonian University</li>
+  <li>studies Applied Computer Science at Jagiellonian University</li>
   <li>Bunnies' mom</li>
   <li>Marvel's fan</li>
   <li>math lover</li>
