@@ -7,7 +7,7 @@ Hello World!
 </h2>
 <ul>
   <li>studies Applied Computer Science at Jagiellonian University</li>
-  <li>Motorolan | Software Intern Developer | Angular</li>
+  <li>Motorolan | Intern Software Developer | Angular</li>
   <li>Bunnies' mom</li>
   <li>Marvel's fan</li>
   <li>math lover</li>
