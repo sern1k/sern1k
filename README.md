@@ -2,7 +2,7 @@
 Hello World! <img src="https://user-images.githubusercontent.com/18665370/170464805-507311d0-6d8a-4658-a249-4429b2586cc6.gif" width="30"/>
 </h1>
 
-<blockquote>And my heart glows bright red under my filmy, translucent skin and they have to
+<blockquote align="center">And my heart glows bright red under my filmy, translucent skin and they have to
 administer 10cc of JavaScript to get me to come back. (I respond well to toxins in the
 blood.) Man, that stuff will kick the peaches right out your gills!</blockquote>
   
