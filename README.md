@@ -9,7 +9,6 @@ blood.) Man, that stuff will kick the peaches right out your gills!</blockquote>
 <h2>
   About me
 </h2>
-<img align="right" max-width="90%" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
 <ul>
   <li>studies Applied Computer Science at Jagiellonian University</li>
   <li>Motorolan | Intern Software Developer | Angular</li>
