@@ -11,7 +11,7 @@ blood.) Man, that stuff will kick the peaches right out your gills!</blockquote>
 </h2>
 <ul>
   <li>studies Applied Computer Science at Jagiellonian University</li>
-  <li>Motorolan | Intern Software Developer | Angular</li>
+  <li>Motorolan | Software Developer </li>
   <li>Bunnies' and dog's mom</li>
   <li>Marvel's fan</li>
   <li>math lover</li>
