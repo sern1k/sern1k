@@ -12,6 +12,7 @@ blood.) Man, that stuff will kick the peaches right out your gills!</blockquote>
 <ul>
   <li>studies Applied Computer Science at Jagiellonian University</li>
   <li>Motorolan | Software Developer </li>
+  <li>Dog person</li>
   <li>Marvel's fan</li>
   <li>math lover</li>
 </ul>
