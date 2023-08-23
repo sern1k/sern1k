@@ -38,7 +38,7 @@ blood.) Man, that stuff will kick the peaches right out your gills!</blockquote>
 <p>
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=sern1k&theme=highcontrast&hide_border=true&border_radius=25&date_format=j%20M%5B%20Y%5D&background=DD272700)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sern1k&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sern1k&layout=compact&theme=highcontrast&hide_border=true&border_radius=25)](https://github.com/anuraghazra/github-readme-stats)
   
 </p>
 
