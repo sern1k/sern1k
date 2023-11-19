@@ -14,11 +14,10 @@ blood.) Man, that stuff will kick the peaches right out your gills!</blockquote>
   <li>Motorolan | Software Developer </li>
   <li>Dog person</li>
   <li>Marvel's fan</li>
-  <li>math lover</li>
 </ul>
 
 
-<!-- From [chandan-reddy-k](https://github.com/chandan-reddy-k) -->
+<!-- From [chandan-reddy-k](https://github.com/chandan-reddy-k) 
 <h2>
   Technologies & Tools:
 </h2>
@@ -29,9 +28,9 @@ blood.) Man, that stuff will kick the peaches right out your gills!</blockquote>
 <code><img height="70" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
 <code><img height="70" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
 </p>
-
+-->
 <br/>
-     
+<!--
 <h2>
   Some stats
 </h2>
@@ -41,5 +40,5 @@ blood.) Man, that stuff will kick the peaches right out your gills!</blockquote>
 [![Top Langs](https://github-readme-stats-69y7.vercel.app/api/top-langs/?username=sern1k&layout=compact&theme=transparent&hide_border=true&border_radius=25&text_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats) 
   
 </p>
-
+-->
 <br/>
